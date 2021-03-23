@@ -66,12 +66,12 @@ Geeks for Geeks to learn more about the syntax and features available to me.
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 * As I was making the game, many questions popped up for me, and some were answered in the process of doing this. However, I had some questions that were 
 left unanswered after completing my submission. The questions I have are: 
-1) Aside from Javascript and CSS, what other languages, if any, are compatible with HTML? So far with what I've seen of HTML, I've only noticed that 
-Javascript and CSS being used to compliment HTML webpages, but I wonder if other languages can also be used in their place. It'd be nice to be able to 
-use other languages such as Java (a language I'm more familiar with) to make HTML pages.
-2) Is it possible to exclude a Javascript file from an HTML project? I know that HTML isn't like most other programming langauges, and Javascript allows 
-the use of functions in an HTML web page. However, I was wondering if it is possible to do most if not all of the things that Javascript does in just an 
-HTML page?
+  - Aside from Javascript and CSS, what other languages, if any, are compatible with HTML? So far with what I've seen of HTML, I've only noticed that 
+  Javascript and CSS being used to compliment HTML webpages, but I wonder if other languages can also be used in their place. It'd be nice to be able to 
+  use other languages such as Java (a language I'm more familiar with) to make HTML pages.
+  - Is it possible to exclude a Javascript file from an HTML project? I know that HTML isn't like most other programming langauges, and Javascript allows 
+  the use of functions in an HTML web page. However, I was wondering if it is possible to do most if not all of the things that Javascript does in just an 
+  HTML page?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 * If I had a few more hours to work on this project, I would spend the time to add even more features so that the game isn't limited to one game mode, and I'd try to find other ways
